@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Mosquito-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\MosquitoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\Mosquito.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\MosquitoCharacter.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\MosquitoGameMode.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\Mosquito.init.gen.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\MosquitoCharacter.gen.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\MosquitoGameMode.gen.cpp.obj"
+"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\Default.rc2.res"
+/OUT:"C:\Users\Battlestation One\Desktop\Active Projects\Mosquito\Mosquito\Intermediate\Build\Win64\UnrealEditor\Development\Mosquito\UnrealEditor-Mosquito-0001.lib"

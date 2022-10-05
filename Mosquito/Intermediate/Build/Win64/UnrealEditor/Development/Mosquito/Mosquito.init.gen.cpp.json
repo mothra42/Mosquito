@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\unrealeditor\\inc\\mosquito\\mosquito.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\mosquitoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\unrealeditor\\development\\mosquito\\definitions.mosquito.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

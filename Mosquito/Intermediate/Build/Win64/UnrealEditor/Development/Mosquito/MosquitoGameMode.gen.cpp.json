@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\unrealeditor\\inc\\mosquito\\mosquitogamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\mosquitoeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\unrealeditor\\development\\mosquito\\definitions.mosquito.h",
+            "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\source\\mosquito\\mosquitogamemode.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\battlestation one\\desktop\\active projects\\mosquito\\mosquito\\intermediate\\build\\win64\\unrealeditor\\inc\\mosquito\\mosquitogamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
